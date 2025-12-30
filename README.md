@@ -84,10 +84,22 @@ The application will launch typically at `http://localhost:5173`.
 - **POST** `/api/tasks` - Create a new task.
 - **PUT** `/api/tasks/:id` - Update an existing task.
 - **DELETE** `/api/tasks/:id` - Delete a task.
+front end:
+
+<img width="1919" height="752" alt="Screenshot 2025-12-30 154739" src="https://github.com/user-attachments/assets/ef2c56db-e611-4cf4-9124-113635d6df2d" />
+
+
+back end:
+
+<img width="1919" height="366" alt="Screenshot 2025-12-30 154808" src="https://github.com/user-attachments/assets/433fb2eb-e81b-4f5a-9f02-2591e727cd34" />
+
+
+
+
 
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
-Developed with ❤️ by [Your Name]
+Developed with ❤️ by [Samyuktha]
